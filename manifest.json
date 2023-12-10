@@ -1,0 +1,22 @@
+{
+   "manifest_version": 3,
+   "description": "세상의 모든 라디오를 하나로",
+   "icons": {
+      "128": "img/icon.png"
+   },
+   "name": "라디오",
+   "sidebar_action": {
+      "default_icon": {
+         "128": "img/icon-128.png",
+         "16": "img/icon-16.png",
+         "32": "img/icon-32.png",
+         "64": "img/icon-64.png"
+      },
+      "default_page": "index.html",
+      "default_title": "라디오",
+      "use_navigation_bar": false
+   },
+   "update_url": "https://store.whale.naver.com/update/whx",
+   "version": "1.0.0",
+   "whale_extension": true
+}
